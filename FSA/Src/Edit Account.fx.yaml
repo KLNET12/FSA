@@ -57,7 +57,7 @@
         DataSource: =Accounts
         DefaultMode: =FormMode.View
         Fill: =RGBA(215, 223, 240, 1)
-        Height: =745
+        Height: =825
         Item: =Gallery9.Selected
         NumberOfColumns: =1
         OnFailure: =Notify("Please Fill required Info",NotificationType.Error)
@@ -66,7 +66,7 @@
             Notify("Account Updated Successfully",NotificationType.Success)
         SnapToColumns: =false
         Width: =640
-        Y: =196
+        Y: =216
         ZIndex: =8
 
         Email_DataCard3 As typedDataCard.textualEditCard:
