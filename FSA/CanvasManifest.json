@@ -100,11 +100,11 @@
     "FileID": "4580d1f3-6930-4548-b9ba-b8029b3f58ed",
     "Id": "4580d1f3-6930-4548-b9ba-b8029b3f58ed",
     "InstrumentationKey": "",
-    "Name": "Field Service Trial",
+    "Name": "Field Service Naiam",
     "OriginatingVersion": "1.327"
   },
   "PublishInfo": {
-    "AppName": "Field Service Trial",
+    "AppName": "Field Service Naiam",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
