@@ -703,6 +703,7 @@ screen_GenerateInvoice As screen:
             Icon: =Icon.Edit
             OnSelect: |-
                 =ResetForm(form_InvoiceLine);
+                Set(varNew,false);
                 Set(varInvoiceLine,ThisItem); Navigate('screen_CreateService/Product')
             X: =566
             Y: =243
@@ -870,6 +871,7 @@ screen_GenerateInvoice As screen:
             Icon: =Icon.Edit
             OnSelect: |-
                 =ResetForm(form_InvoiceLine);
+                Set(varNew,false);
                 Set(varInvoiceLine,ThisItem); Navigate('screen_CreateService/Product')
             X: =566
             Y: =243
