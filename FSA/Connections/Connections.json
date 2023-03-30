@@ -100,6 +100,47 @@
     "dependents": [],
     "id": "353bf940-47c4-4697-9553-94728560e456"
   },
+  "38d71b08-de1c-44a0-80e5-b30398181583": {
+    "connectionParameters": {
+      "logicAppHostType": "ARM",
+      "workFlowCallbackUri": "https://prod-48.westus.logic.azure.com:443/workflows/02c069ea73d14568a4e9eb23f7a4763b/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=T7_0I31Ia9-f_C3kzxVVi-jhkLoHoJDYujPak-rrcZE",
+      "workflowEndpoint": "/subscriptions/de199c31-4f16-4099-87e6-0b5042c8bada/resourceGroups/be05018af684437f983d60c468ab4978-bb3c644f79d048cf9555c6276bbc3a64/providers/Microsoft.Logic/workflows/19da13c1-2edf-4091-8646-f3d013efd31a",
+      "workflowName": "19da13c1-2edf-4091-8646-f3d013efd31a",
+      "workflowPath": "/subscriptions/de199c31-4f16-4099-87e6-0b5042c8bada/resourceGroups/be05018af684437f983d60c468ab4978-bb3c644f79d048cf9555c6276bbc3a64/providers/Microsoft.Logic/workflows/19da13c1-2edf-4091-8646-f3d013efd31a"
+    },
+    "connectionRef": {
+      "displayName": "Logic flows",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1615/1.0.1615.3163/logicflows/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_logicflows",
+      "parameterHints": {
+        "e37d8029-b8f5-4343-bda6-edbd14c79fed": {
+          "value": "shared_commondataserviceforapps"
+        },
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "19da13c1-2edf-4091-8646-f3d013efd31a"
+        }
+      },
+      "parameterHintsV2": {
+        "shared_commondataserviceforapps": {
+          "value": "e37d8029-b8f5-4343-bda6-edbd14c79fed"
+        },
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "19da13c1-2edf-4091-8646-f3d013efd31a"
+        }
+      }
+    },
+    "datasets": {},
+    "dataSources": [
+      "UpdateWorkOrderProductLineStatus"
+    ],
+    "dependencies": {
+      "shared_commondataserviceforapps": "e37d8029-b8f5-4343-bda6-edbd14c79fed"
+    },
+    "dependents": [],
+    "id": "38d71b08-de1c-44a0-80e5-b30398181583"
+  },
   "90dec6fc-849b-419a-9a1c-02f0a11589a2": {
     "connectionParameters": {
       "sku": "Enterprise",

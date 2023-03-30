@@ -77,6 +77,15 @@ ServicesScreen As screen:
             Y: =61
             ZIndex: =7
 
+        Button18 As button:
+            Height: =50
+            Size: =24
+            Text: ="Button"
+            Width: =133
+            X: =506
+            Y: =68
+            ZIndex: =8
+
     Label1_1 As label:
         Align: =Align.Center
         Fill: =RGBA(187, 221, 140, 1)
