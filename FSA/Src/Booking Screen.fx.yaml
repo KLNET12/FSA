@@ -223,7 +223,7 @@
         Height: =66
         OnSelect: =Navigate(WorkOrder)
         Size: =24
-        Text: ="Button"
+        Text: ="Work Order"
         Width: =213
         Y: =72
         ZIndex: =10
