@@ -505,7 +505,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button1",
-      "ParentIndex": 9,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -12960,7 +12960,7 @@
       "LayoutName": "vertical",
       "MetaDataIDKey": "",
       "Name": "Form1",
-      "ParentIndex": 8,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -18287,22 +18287,8 @@
         "FontWeight",
         "Align",
         "VerticalAlign",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "X",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "Y",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "X",
+        "Y",
         "Width",
         "Height",
         "ZIndex",
@@ -22165,7 +22151,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Timer1_1",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
